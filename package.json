@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/talha-exe/prom-code#readme",
   "dependencies": {
-    "prom-client": "^14.0.1"
+    "prom-client": "^14.0.1",
+    "response-time": "^2.3.2"
   }
 }
